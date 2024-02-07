@@ -6,6 +6,9 @@
 - 🎓 Currently in my final year of university.
 - 🚀 Enthusiastic about learning new technologies.
 
+## My certifications
+
+- :chart_with_upwards_trend: [Certifications](https://github.com/DiegoSalazarJara/Certificados)
 
 ## My skills
 
