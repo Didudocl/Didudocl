@@ -4,7 +4,7 @@
 
 - 👨‍💻 Passionate about the world of Full-stack development.
 - 🎓 I am currently a master's student in Computer Science.
-- 🚀 Enthusiastic about learning new programming languages, developing challenging projects and giving back to the community.
+- 🚀 Enthusiastic about learning new programming languages, developing challenging projects and contributing to the community.
 - 📚 I am a staff member in the [@Open Source UBB](https://github.com/ubiobio)
 
 # My skills
